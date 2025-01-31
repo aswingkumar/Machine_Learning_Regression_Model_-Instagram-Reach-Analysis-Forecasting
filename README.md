@@ -6,6 +6,8 @@ For the regression task, we employed Random Forest, Decision Tree, and Gradient 
 
 The results indicate that engagement features significantly influence reach, and machine learning models can effectively forecast trends. While the models performed well, further improvements such as hyperparameter tuning, feature engineering, and deep learning approaches could enhance accuracy. Additionally, incorporating real-time data and social media trends would refine predictions. Overall, this study demonstrates how predictive analytics can provide valuable insights, empowering businesses and influencers to strategically enhance their Instagram presence and maximize audience engagement.
 
+----To see the complete video explanation on this topic, check out the following link:
+
 
 
 
